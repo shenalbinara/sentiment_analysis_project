@@ -1,0 +1,54 @@
+/* style.css */
+
+body {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+}
+
+.review-image {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.card {
+    border: none;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+textarea {
+    resize: none;
+}
+
+.label-text {
+    font-weight: 600;
+}
+
+
+.review-image {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.label-text {
+    font-size: 1.1rem;
+    font-weight: 500;
+}
+
+.coment-bottom {
+    background-color: #f8f9fa;
+    border-top: 1px solid #dee2e6;
+}
+
+.commented-user {
+    padding: 0.3rem 0;
+    font-size: 0.95rem;
+    color: #343a40;
+}
+
+.review-text {
+    font-style: italic;
+    font-weight: 400;
+    color: #212529;
+}
